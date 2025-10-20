@@ -22,7 +22,7 @@ pip install langdetect
 
 Clone this repository (if you haven’t yet):
 
-git clone https://github.com/<your-username>/language-detection.git
+git clone https://github.com/Coder-dev2006/language-detection.git
 cd language-detection
 
 🚀 Usage
